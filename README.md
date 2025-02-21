@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hazem Khairat</h1>
-<h3 align="center">A passionate Back end developer from Egypt</h3>
+<h2 align="left">Hi 👋, I'm Hazem Khairat, a Software Engineer passionate about backend development and problem-solving</h2>
 
 
 
