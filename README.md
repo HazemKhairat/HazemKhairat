@@ -1,6 +1,8 @@
-<h2 align="left">Hi 👋, I'm Hazem Khairat, a Software Engineer passionate about backend development and problem-solving</h2>
-
-
+<h2 align="left">
+  Hi 👋, I'm Hazem Khairat, a Software Engineer from Egypt 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg" alt="Egypt Flag" width="22" height="15">,  
+  passionate about backend development and problem-solving.
+</h2>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
