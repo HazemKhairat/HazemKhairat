@@ -45,6 +45,14 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazemkhairat&show_icons=true&locale=en&layout=compact" alt="hazemkhairat" /></p>
+<hr>
+<h3 align="left">📊 GitHub Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hazemkhairat&show_icons=true&locale=en" alt="hazemkhairat" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HazemKhairat&show_icons=true&locale=en" alt="HazemKhairat" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HazemKhairat&show_icons=true&locale=en&layout=compact" alt="HazemKhairat" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HazemKhairat" alt="HazemKhairat" />
+</p>
+
