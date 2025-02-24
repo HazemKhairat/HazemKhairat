@@ -1,5 +1,5 @@
 <h2 align="left">
-  Hi 👋, I'm Hazem Khairat, a Software Engineer from Egypt 
+  Hi 👋, I'm Hazem Khairat, a Software Engineer from Egypt,
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg" alt="Egypt Flag" width="22" height="15">,  
   passionate about backend development and problem-solving.
 </h2>
@@ -13,7 +13,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -44,15 +44,13 @@
   </a>
 </p>
 
-
 <hr>
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HazemKhairat&show_icons=true&locale=en" alt="HazemKhairat" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HazemKhairat&show_icons=true&locale=en&layout=compact" alt="HazemKhairat" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HazemKhairat&show_icons=true&locale=en" alt="HazemKhairat" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=HazemKhairat&show_icons=true&locale=en&layout=compact" alt="HazemKhairat" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HazemKhairat" alt="HazemKhairat" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HazemKhairat" alt="HazemKhairat" />
 </p>
-
