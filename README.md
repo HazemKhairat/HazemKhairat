@@ -47,10 +47,8 @@
 <hr>
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HazemKhairat&show_icons=true&locale=en" alt="HazemKhairat" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=HazemKhairat&show_icons=true&locale=en&layout=compact" alt="HazemKhairat" />
-</p>
-<p align="center">
+![](https://github-readme-stats.vercel.app/api?username=HazemKhairat&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HazemKhairat" alt="HazemKhairat" />
 </p>
