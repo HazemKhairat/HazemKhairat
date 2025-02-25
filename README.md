@@ -47,7 +47,7 @@
 <hr>
 <h3 align="left">📊 GitHub Stats:</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=HazemKhairat&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hazemkhairat&show_icons=true&locale=en" alt="hazemkhairat" /></p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HazemKhairat" alt="HazemKhairat" />
