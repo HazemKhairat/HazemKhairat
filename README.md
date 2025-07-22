@@ -21,16 +21,17 @@
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
 </p>
 
-### ⚡ Coding Profiles
+### 🌐 Profiles
 <p align="left">
-  <a href="https://leetcode.com/yourusername/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode"/></a>
-  <a href="https://www.hackerrank.com/yourusername"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="40" height="40" alt="HackerRank"/></a>
+  <a href="https://www.linkedin.com/in/hazem-khairat-684538284/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/hazemkhairat4/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode"/></a>
+  <a href="https://www.hackerrank.com/profile/hazemkhairat4"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="40" height="40" alt="HackerRank"/></a>
 </p>
 
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hazemkhairat&show_icons=true&hide_border=true" alt="Hazem's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HazemKhairat&hide_border=true" alt="Hazem's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hazemkhairat&show_icons=true&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HazemKhairat&hide_border=true" alt="Streak" />
 </p>
