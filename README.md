@@ -6,9 +6,9 @@
 
 ---
 ### 📊 GitHub Activity
-<p align="center" style="margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=hazemkhairat&show_icons=true&hide_border=true&theme=default" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HazemKhairat&hide_border=true" width="48%"/> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HazemKhairat&show_icons=true&hide_border=true" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=HazemKhairat&hide_border=true" width="48%"/>
 </p>
 
 ---
