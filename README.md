@@ -35,9 +35,9 @@
 </p>
 
 ---
-
-<!-- <p align="center">
+### 🌐 Web Sites
+ <p align="center">
   <a href="https://www.linkedin.com/in/hazem-khairat-684538284/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn"/></a>
   <a href="https://leetcode.com/u/hazemkhairat4/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode"/></a>
   <a href="https://www.hackerrank.com/profile/hazemkhairat4"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="40" alt="HackerRank"/></a>
-</p> -->
+</p>
