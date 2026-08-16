@@ -12,19 +12,20 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/HazemKhairat/github-readme-stats">
+  <a href="https://github.com/HazemKhairat">
     <img 
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=HazemKhairat&show_icons=true&theme=default&hide_border=true" 
-      onerror="this.onerror=null; this.src='https://gh-stats-gen.vercel.app/api?username=HazemKhairat&theme=default';"
-      width="48%"
+      src="https://github-readme-stats-fast.vercel.app/api?username=HazemKhairat&show_icons=true&theme=default&hide_border=true"
+      width="49%"
+    />
+  </a><a href="https://github.com/HazemKhairat">
+    <img 
+      src="https://streak-stats.demolab.com/?user=HazemKhairat&theme=default&hide_border=true"
+      onerror="this.onerror=null; this.src='https://github-readme-streak-stats.herokuapp.com/?user=HazemKhairat&theme=default&hide_border=true';"
+      width="49%"
     />
   </a>
-  <img 
-    src="https://streak-stats.demolab.com/?user=HazemKhairat&theme=default&hide_border=true"
-    onerror="this.onerror=null; this.src='https://github-readme-streak-stats.herokuapp.com/?user=HazemKhairat&theme=default';"
-    width="48%"
-  />
 </p>
 
 ---
