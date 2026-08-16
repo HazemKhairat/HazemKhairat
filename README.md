@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Computer Science student passionate about building impactful web applications.  
+- 🎓 Computer Science graduate passionate about building impactful web applications.  
 - 💡 Strong problem-solving background with **1500+ solved problems** and **Top 5% on LeetCode**.  
 ---
 
