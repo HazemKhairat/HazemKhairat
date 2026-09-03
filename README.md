@@ -16,13 +16,20 @@
 
 ## About Me
 
-I'm a Software Engineer and Computer Science graduate passionate about **building software, solving complex problems, and understanding how systems work under the hood**.
-
 * 🎓 Computer Science Graduate
 * 🧩 1500+ problems solved
 * 🏆 Top 5% globally on LeetCode
 * 🌐 Experienced in building modern web applications
 * ⚙️ Interested in software architecture, backend systems, and scalable applications
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=HazemKhairat&show_icons=true&hide_border=true" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=HazemKhairat&hide_border=true" width="48%"/>
+</p>
 
 ---
 
@@ -60,15 +67,6 @@ I'm a Software Engineer and Computer Science graduate passionate about **buildin
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/hazemkhairat4?theme=light&font=baloo&ext=heatmap" alt="LeetCode Stats"/>
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=HazemKhairat&show_icons=true&hide_border=true" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=HazemKhairat&hide_border=true" width="48%"/>
 </p>
 
 ---
