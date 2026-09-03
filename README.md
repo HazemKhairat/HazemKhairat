@@ -20,7 +20,6 @@
 * 🧩 1500+ problems solved
 * 🏆 Top 5% globally on LeetCode
 * 🌐 Experienced in building modern web applications
-* ⚙️ Interested in software architecture, backend systems, and scalable applications
 
 ---
 
