@@ -1,54 +1,80 @@
-<h2 align="center">
-  👋 Hi, I'm <span style="color:#007acc;">Hazem Khairat</span>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg" width="22" height="15">
-</h2>
-<h3 align="center">💻 Software Engineer | 🌐 Web Developer | 🧩 Problem Solver</h3>
-
----
-
-### 🚀 About Me
-- 🎓 Computer Science graduate passionate about building impactful web applications.  
-- 💡 Strong problem-solving background with **1500+ solved problems** and **Top 5% on LeetCode**.  
----
-
-### 📊 GitHub Stats
+<h1 align="center">Hi, I'm Hazem Khairat 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/HazemKhairat">
-    <img 
-      src="https://github-readme-stats-fast.vercel.app/api?username=HazemKhairat&show_icons=true&theme=default&hide_border=true"
-      width="49%"
-    />
-  </a><a href="https://github.com/HazemKhairat">
-    <img 
-      src="https://streak-stats.demolab.com/?user=HazemKhairat&theme=default&hide_border=true"
-      onerror="this.onerror=null; this.src='https://github-readme-streak-stats.herokuapp.com/?user=HazemKhairat&theme=default&hide_border=true';"
-      width="49%"
-    />
-  </a>
+  <b>Frontend Developer • Angular • Problem Solver</b>
+</p>
+
+<p align="center">
+  <a href="https://hazem-khairat-portfolio-site.vercel.app/">Portfolio</a>
+  •
+  <a href="https://www.linkedin.com/in/hazem-khairat-684538284/">LinkedIn</a>
+  •
+  <a href="https://leetcode.com/u/hazemkhairat4/">LeetCode</a>
+  •
+  <a href="https://github.com/HazemKhairat">GitHub</a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" alt="Angular"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40" alt="Laravel"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="40" alt="Flask"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git"/>
+## About Me
+
+I'm a Computer Science graduate and Frontend Developer focused on building **clean, responsive, and scalable web applications**.
+
+* 🎓 Computer Science Graduate
+* ⚡ 1500+ problems solved on competitive programming platforms
+* 🏆 Top 5% globally on LeetCode
+* 🌐 Experienced with Angular and modern web development
+* 🚀 Interested in building real-world products and solving challenging problems
+
+---
+
+## Tech Stack
+
+**Frontend**
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="38" alt="Angular"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="38" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="38" alt="CSS3"/>
+</p>
+
+**Backend & Database**
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="38" alt="Laravel"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="38" alt="PHP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="38" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38" alt="Python"/>
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="38" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="38" alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="38" alt="C++"/>
 </p>
 
 ---
-### 🌐 Websites
- <p align="center">
-  <a href="https://www.linkedin.com/in/hazem-khairat-684538284/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn"/></a>
-  <a href="https://leetcode.com/u/hazemkhairat4/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode"/></a>
-  <a href="https://www.hackerrank.com/profile/hazemkhairat4"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="40" alt="HackerRank"/></a>
+
+## Problem Solving
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/hazemkhairat4?theme=light&font=baloo&ext=heatmap" alt="LeetCode Stats"/>
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=HazemKhairat&show_icons=true&hide_border=true" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=HazemKhairat&hide_border=true" width="48%"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Always learning. Always building. Always solving.</i>
 </p>
